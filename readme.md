@@ -6,7 +6,7 @@ Teste técnico - Engenharia de Dados
     1. As questões devem ser respondidas em arquivos separados.
     2. Você deve utilizar PySpark para resolver as questões.
     3. Os arquivos gerados devem ser salvos no diretório `outputs` dentro da pasta relativa ao número da questão.
-3. Envie o link do seu repositório para o e-mail: selecao@operdata.com.br até às 12h do dia 24/06/2024
+
 
 
 ### Questão 1
